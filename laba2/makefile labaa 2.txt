@@ -1,0 +1,2 @@
+all:
+	gcc -O2 -o run laba2.c
